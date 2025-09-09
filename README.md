@@ -10,7 +10,7 @@ A small production-minded **Go GraphQL API** to manage stores and products, buil
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **GraphQL API** for managing `Store` and `Product` entities.
 - **Postgres** for persistent storage.
@@ -22,7 +22,7 @@ A small production-minded **Go GraphQL API** to manage stores and products, buil
 
 ---
 
-## 📦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -89,7 +89,7 @@ query {
 
 ---
 
-## 🧪 Tests
+##  Tests
 
 Run unit tests with:
 
@@ -99,7 +99,7 @@ go test ./...
 
 ---
 
-## 💡 Why This Project
+##  Why This Project
 
 This project demonstrates a **scalable and maintainable** approach to building a commerce-style backend:
 
@@ -113,6 +113,6 @@ It's not just functional — it's designed with **production-readiness** and **d
 
 ---
 
-## 📜 License
+## License
 
 MIT
